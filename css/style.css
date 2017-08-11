@@ -1,0 +1,256 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+/* font-family: 'Lato', sans-serif; */
+
+.top_bar {
+    min-height: 17px;
+    width: 90%;
+    background: #090909;
+    margin: 0px auto;  
+}
+
+.menu_bar {
+    min-height: 140px;
+    width: 90%;
+    background: #f4f4f4;
+    border-bottom: 1px solid #c0c0c0;
+    margin: 0px auto;
+}
+
+.logo {
+    float: left;
+    padding: 18px;
+    margin-left: 0px;
+
+}
+
+.email {
+   float: right;
+    color: #a7a6a6;
+    margin-top: 32px;
+}
+
+.nav_bar {
+    float: right;
+    margin-right: -186px;
+    margin-top: 25px;
+
+}
+.nav_bar ul {
+  margin: 0px;
+    padding: 0px;
+    list-style: none;
+      margin-top: 50px;
+}
+.nav_bar ul li {
+    float: left;
+  
+}
+.nav_bar ul li a {
+   text-decoration: none;
+    color: #fe9b00;
+    font-family: 'Lato', sans-serif;
+    font-size: 12px;
+    font-weight: bold;
+    padding: 42px 22px;
+  
+
+}
+.nav_bar ul li a:hover {
+    
+
+}
+
+
+
+.header_area {
+    min-height: 435px;
+    width: 90%;
+   
+    margin: 0px auto;
+    margin-right: 3px;
+}
+
+.title {
+}
+
+.nice_work {
+    float: left;
+}
+
+.btm {
+}
+
+.view_portfolio {
+}
+
+.fa.fa-arrow-right {
+}
+.image_wrapper {
+    float: right;
+    width: 450px;
+    height: 390px;
+    
+}
+
+.title_image {
+    float: left;
+    width: 638px;
+    height: 378px;
+    margin-top: -72px;
+    margin-left: 343px
+}
+
+.img_top_a {
+}
+
+.img_bottom_a {
+}
+
+.title_image_right {
+    float: left;
+}
+
+.img_top_b {
+}
+
+.img_bottom_b {
+}
+
+.about_us_area {
+    min-height: 300px;
+    width: 90%;
+    background: #f4f4f4;
+    border-bottom: 1px solid #c0c0c0;
+    margin: 0px auto;
+}
+
+.about {
+    float: left;
+    width: 300px;
+    min-height: 290px;
+    padding-left: 15px;
+}
+
+.about_title {
+}
+
+.about_btn {
+    color: #fe9b00;
+}
+
+.benefit {
+    float: left;
+    width: 300px;
+    min-height: 290px;
+    padding-left: 80px;
+}
+
+.benefit_title {
+}
+
+.benefit_text {
+}
+
+.fa.fa-check-square {
+    float: left;
+}
+.benefit_area {
+    margin-left: 20px;
+    
+}
+
+.testimonial {
+    float: right;
+    width: 300px;
+    min-height: 290px;
+    padding-right: 15px;
+}
+
+.testimonial_tilte {
+}
+
+.testimonial_text {
+}
+
+.testtimonial_author {
+}
+
+.portfolio_area {
+    min-height: 250px;
+    width: 90%;
+    background: #f4f4f4;
+    border-bottom: 1px solid #c0c0c0;
+    margin: 0px auto;
+    clear
+}
+.portfolio_wrapper {
+    padding-top: 15px;
+    
+}
+.portfolio_title {
+    position: absolute;
+    margin-left: 30px;
+    margin-top: -20px;
+    
+}
+.portfolio_title_icon {
+    
+}
+
+.portfolio_image {
+    float: left;
+    padding: 32px;
+}
+
+.blog_area {
+    min-height: 175px;
+    width: 90%;
+    background: #f4f4f4;
+    margin: 0px auto;
+}
+
+.blog_text {
+    float: left;
+    min-height: 120px;
+    width: 60%;
+    padding-top: 15px;
+}
+.blog_wrapper {
+    float: right;
+    min-height: 120px;
+    width: 20%;
+    padding-top: 0px;
+}
+.portfolio_wrapper_area {
+    
+}
+
+.blog_icon {
+}
+
+.social_icon {
+    float: left;
+    padding: 20px 10px;
+}
+
+.footer_area {
+    min-height: 120px;
+    width: 90%;
+    background: #e2e2e2;
+    border-bottom: 1px solid #c0c0c0;
+    margin: 0px auto;
+}
+
+.copy_right {
+    float: left;
+    padding: 43px;
+}
+
+.footer_logo {
+    float: right;
+    padding-top: 10px;
+    margin-right: 10px
+}
